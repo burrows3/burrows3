@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @burrows3
 - 👀 I’m interested in solving difficult problems while also building awesome products. 
-- 🌱 I’m currently learning full stack engineering. 
 - 💞️ I’m looking to collaborate on projects related to the Banking & Payments industry. 
 - 📫 How to reach me - burrowsbryan3@gmail.com
 
